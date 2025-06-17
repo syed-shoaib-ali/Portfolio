@@ -71,11 +71,29 @@ A scalable, serverless backend built to support the Scheduling & Document Automa
 
 Handles real-time updates, auto-scheduling logic, and doc workflows without any traditional server.
 
+**6. TestNow – Exam Monitoring App (India)**
+
+Tech Stack: React Native CLI, Redux
+Platform: Android,IOS
+Status: 🔐 Private – Partially under my ownership –  Request access (mailto://syyedshoaib.official@gmail.com)
+📱 View on their site (https://wheebox.com/test-now.obj)
+
+Developed a smart proctoring exam app for students, used widely during COVID-19 by a notable Indian EdTech company. The app ensures fair remote exams using real-time monitoring.
+
+Key Features:
+	•	Detects head movements and suspicious behavior using the device camera
+	•	Sends instant alerts to the invigilator if cheating is suspected
+	•	Clean, high-performance frontend optimized for Android
+	•	Over 5K+ downloads during the first release
+	•	Developed with React Native CLI; managed app state with Redux
+	•	Some parts of the source code are under my personal GitHub ownership
+
 
 **🏆 Notable Contribution – Me@Walmart App**
 
 Role: React Native Engineer (Freelance Consultant)
 Tech Stack: React Native, Zustand, Redux (legacy)
+https://play.google.com/store/apps/details/Me@Walmart?id=com.walmart.squiggly
 
 Contributed to the performance optimization of the Me@Walmart internal mobile app used by Walmart employees.
 	•	Refactored critical state management system from Redux to Zustand
@@ -84,4 +102,12 @@ Contributed to the performance optimization of the Me@Walmart internal mobile ap
 	•	Proposed architectural improvements to streamline future updates
 
 📁 Note: This work is part of Walmart’s internal repository and not publicly accessible.
+
+
+**📌 And Many More…**
+
+Most of my professional and freelance work is under private repositories due to client confidentiality or company policies.
+
+✅ If you’d like to review more of my work or need access to specific repositories, feel free to send me a request here (mailto://syyedshoaib.official@gmail.com).
+I’m happy to provide access to selected repos or demos on request.
 
