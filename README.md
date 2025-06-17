@@ -29,7 +29,7 @@ A web dashboard for managing the Sound Healing App. Admins can:
 **3. Sound Healing Backend (Serverless API)**
 
 Tech Stack: Firebase Functions, Firestore, Google Cloud Storage, ElevenLabs, OpenAI
-Status: 🔐 Private – Request access
+Status: 🔐 Private – Request access (mailto://syyedshoaib.official@gmail.com)
 
 A fully serverless backend powering the Sound Healing App and Dashboard. Built for scalability and performance, it includes:
 	•	Firebase Cloud Functions for modular business logic
@@ -39,4 +39,49 @@ A fully serverless backend powering the Sound Healing App and Dashboard. Built f
 	•	Firestore for real-time data and user management
 
 This backend supports both the mobile app and admin dashboard, making the system fully integrated and cost-efficient.
+
+**4. Custom Scheduling & Document Automation App**
+
+Tech Stack: Next (Admin), Firebase (Auth, Firestore, Cloud Functions, Storage), PDFKit
+Status: 🔐 Private – Request access (mailto://syyedshoaib.official@gmail.com)
+
+A custom-built scheduling app similar to Calendly, designed for managers and vendors. Key features:
+	•	Managers can create accounts and invite vendors
+	•	One-click calendar sharing for vendors to book slots
+	•	Custom template system for sending documents
+	•	Templates support dynamic fields (e.g., vendor name, date)
+	•	On form submission, a PDF is auto-generated and sent to the vendor
+	•	Built using Firebase for real-time sync and serverless automation
+
+Ideal for use cases like vendor onboarding, interviews, or service booking where automated paperwork is required.
+
+
+**5. Scheduling App Backend (Serverless Automation)**
+
+Tech Stack: Firebase Cloud Functions, Firestore, Firebase Auth, Firebase Storage, PDFKit, Node.js
+Status: 🔐 Private – Request access (mailto://syyedshoaib.official@gmail.com)
+
+A scalable, serverless backend built to support the Scheduling & Document Automation App. Key capabilities:
+	•	Modular Firebase Functions for auth triggers, calendar handling, and template automation
+	•	PDF generation using dynamic data with PDFKit
+	•	Automatic email dispatch of generated PDFs to vendors
+	•	Firestore for managing users, vendors, slots, and templates
+	•	Firebase Auth for secure, role-based access
+	•	Cloud Storage for storing generated documents
+
+Handles real-time updates, auto-scheduling logic, and doc workflows without any traditional server.
+
+
+**🏆 Notable Contribution – Me@Walmart App**
+
+Role: React Native Engineer (Freelance Consultant)
+Tech Stack: React Native, Zustand, Redux (legacy)
+
+Contributed to the performance optimization of the Me@Walmart internal mobile app used by Walmart employees.
+	•	Refactored critical state management system from Redux to Zustand
+	•	Reduced performance lag caused by frequent checkout register updates
+	•	Achieved and maintained stable 60 FPS under heavy state loads
+	•	Proposed architectural improvements to streamline future updates
+
+📁 Note: This work is part of Walmart’s internal repository and not publicly accessible.
 
